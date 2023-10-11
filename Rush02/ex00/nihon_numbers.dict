@@ -1,0 +1,35 @@
+0 : zero
+1 : ichi
+2 : ni
+3 : san
+4 : yon
+5 : go
+6 : roku
+7 : nana
+8 : hachi
+9 : kyuu
+10: jyuu
+11: jyuu-ichi
+12: jyuu-ni
+13: jyuu-san
+14: jyuu-shi
+15: jyuu-go
+16: jyuu-roku
+17: jyuu-nana
+18: jyuu-hachi
+19: jyuu-kiyuu
+20: ni-jyuu
+30: san-jyuu
+40: yon-jyuu
+50: go-jyuu
+60: roku-jyuu
+70: nana-jyuu
+80: hachi-jyuu
+90: kyuu-jyuu
+100: hyaku
+1000: man
+1000000: hyakuman
+1000000000:  jyuuoku
+1000000000000: icchou
+1000000000000000: senchou
+1000000000000000000: juugai
