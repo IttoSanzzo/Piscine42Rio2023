@@ -1,14 +1,4 @@
-# **************************************************************************** #
-#									       #
-#							  :::	   ::::::::    #
-#    README.md                                          :+:      :+:    :+:    #
-#						      +:+ +:+	      +:+      #
-#    By: marcosv2 <marcosv2@student.42.rio>	    +#+  +:+	   +#+	       #
-#						  +#+#+#+#+#+	+#+	       #
-#    Created: 2023/10/11 18:10:43 by marcosv2	       #+#    #+#	       #
-#    Updated: 2023/10/11 18:23:30 by marcosv2         ###   ########.fr        #
-#									       #
-# **************************************************************************** #
+#    By: marcosv2 <marcosv2@student.42.rio>
 
 # Piscine42Rio2023
 
@@ -18,11 +8,11 @@
 
 # Resultados individuais
 
-> Listas Shell
-	+ Shell 00..: OK 100% | First Try
-	+ Shell 01..: OK 70%  | 1 Retry
+## Listas Shell
++ Shell 00..: OK 100% | First Try
++ Shell 01..: OK 70%  | 1 Retry
 
-> Listas C
+## Listas C
 	+ C 00..: OK 100% | 2 Retry
 	+ C 01..: OK 100% | 3 Retry
 	+ C 02..: OK 85%  | 2 Retry
