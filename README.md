@@ -55,8 +55,8 @@
 ## Exams
 
 ```
-    > Exam 50..: OK %      | One Try
-    > Exam 80..: OK %      | One Try
-    > Exam 90..: OK %      | One Try
-    > Final Exam..: OK 72% | One Try
+	> Exam 50..: OK %      | One Try
+	> Exam 80..: OK %      | One Try
+	> Exam 90..: OK %      | One Try
+	> Final Exam..: OK 72% | One Try
 ```
